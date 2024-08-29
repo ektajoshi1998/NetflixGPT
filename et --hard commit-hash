@@ -1,0 +1,17 @@
+[33mcommit 728a166985bf405188f15d8c616209853eb4d3c1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ekta Joshi <ekajoshi95@gmail.com>
+Date:   Mon Aug 26 16:50:42 2024 +0530
+
+    signIn/signUp form, header
+
+[33mcommit 9a0c1ca741a7a1986e67c2b71fe25ca24ab53ccf[m
+Author: Ekta Joshi <ekajoshi95@gmail.com>
+Date:   Mon Aug 26 08:55:12 2024 +0530
+
+    cra & tailwind setup
+
+[33mcommit 5e4ba243db3d5bc04ac24dd96b24d373cbaebfce[m
+Author: Ekta Joshi <ekajoshi95@gmail.com>
+Date:   Sun Aug 25 19:07:06 2024 +0530
+
+    Initialize project using Create React App
